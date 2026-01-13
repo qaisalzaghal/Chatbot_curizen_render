@@ -89,14 +89,6 @@ uvicorn main:app --reload
 - `token.json`: Generated authentication token
 - `.env`: Environment variables (not included in repository)
 
-## License
 
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
-## Support
 
 [Add support contact information here]
