@@ -88,7 +88,3 @@ uvicorn main:app --reload
 - `credentials.json`: Google Cloud Platform credentials
 - `token.json`: Generated authentication token
 - `.env`: Environment variables (not included in repository)
-
-
-
-[Add support contact information here]
